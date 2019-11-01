@@ -17,7 +17,6 @@ import com.tedu.web.util.JsonResult;
 
 @RestController
 public class RibbonController {
-	//asdsad
 	@Autowired
 	private RestTemplate rt;
 	
